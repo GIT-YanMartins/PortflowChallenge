@@ -173,7 +173,7 @@ footer input{
     visibility: hidden;
 }
 /*RESPONSÍVO*/
-@media (min-width:612px) and (max-width: 914px){
+@media (min-width: 480px) and (max-width: 600px){
     header h1{
         font-size: 60px;
         width: 90%;
