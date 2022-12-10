@@ -180,7 +180,7 @@ footer input{
         height: 80px;
     }
     header{
-        width: 100%; 
+        width: 112vw;
         display: flex;
         position: fixed;
     }
@@ -240,14 +240,11 @@ footer input{
         flex-direction: column;
         height: 600px;
         width: 100%;
-        background-position: right;
+        background-position:  75%  2%;
         background-size:  cover;
     }
-    .IMAGEMUM{
-        background-position:  75%  2%;
-       }
     main{
-        width: 100%;
+        width: 112vw;
         display: flex;
     }
     main img{
@@ -266,7 +263,7 @@ footer input{
         top: 100px;
     }
     footer{
-        width: 100%;
+        width: 112vw;
         font-size: 12px;
         height: 140px;
         display: flex;
