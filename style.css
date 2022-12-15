@@ -180,7 +180,7 @@ footer input{
         height: 80px;
     }
     header{
-        width: 112vw;
+        width: 100vw;
         display: flex;
         position: fixed;
     }
@@ -244,7 +244,7 @@ footer input{
         background-size:  cover;
     }
     main{
-        width: 112vw;
+        width: 100vw;
         display: flex;
     }
     main img{
@@ -263,7 +263,7 @@ footer input{
         top: 100px;
     }
     footer{
-        width: 112vw;
+        width: 100vw;
         font-size: 12px;
         height: 140px;
         display: flex;
