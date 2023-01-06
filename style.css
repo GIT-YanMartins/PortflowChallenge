@@ -191,6 +191,7 @@ footer input{
         background-color: black;
         visibility: visible;
         width: 10vw;
+        mix-blend-mode: color-burn;
     }
     header input:checked~nav{
         transform: translateX(560px);
